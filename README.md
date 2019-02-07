@@ -3,7 +3,7 @@ O Conjunto de dados foi o "titanic-data-6.csv". Esse conjunto de dados tem por i
 
 Foram respondidas as seguintes perguntas:
 
-1 - Entre as pessoas que sobreviveram e as pessoas mortas, quais tiveram um maior número?
+1 - Entre as pessoas que sobreviveram e as pessoas mortas, quais tiveram um maior número?<br />
 2 - Qual grupo por faixa etária, teve a maior taxa de sobrevivência?
 3 - Entre as classes que haviam no Titanic, qual sofreu maior perda?
 4 - Por sexo, qual teve maior perda significativa?
